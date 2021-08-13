@@ -1,2 +1,2 @@
 # Calendar
-Calendar Power BI custom visual by Saifas
+Calendar Power BI custom visual by SAIFAS
